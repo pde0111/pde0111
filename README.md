@@ -1,4 +1,4 @@
-### Hi there! I'm Java programmer Daeun 👋
+### Hi there! I'm Daeun 👋
 
 <a href="https://www.notion.so/16821e61a1b240769be159c0143f2869" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/blog-2DB400?style=flat&logo=blogger&logoColor=ffffff"/></a>
