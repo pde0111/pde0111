@@ -33,17 +33,12 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mybatis-6DB33F?style=for-the-badge&logoColor=ffffff"/></a>
 
-
+## Contact Me 📫
+pde930111@gmail.com
 <!--
 **pde0111/pde0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-🔭 (주)오웬스그룹 재직중</br>
-🌱 I’m currently learning ... </br>
-👯 I’m looking to collaborate on ...</br>
-🤔 I’m looking for help with ...</br>
-💬 Ask me about ...</br>
-📫 How to reach me: ...</br>
-😄 Pronouns: ...</br>
-⚡ Fun fact: ...</br>
+
+
