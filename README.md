@@ -7,7 +7,7 @@
 ### Languages
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/java-E17102?style=for-the-badge&logo=openjdk&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/jsp-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
-<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/javascript-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/></a>
