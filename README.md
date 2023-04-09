@@ -7,7 +7,7 @@
 
 ### Tools
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/MariaDB-354168?style=flat&logo=mariadbfoundation&logoColor=ffffff"/></a>
-<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-6162C5?style=flat&logo=intellijidea&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-0C79FC?style=flat&logo=intellijidea&logoColor=ffffff"/></a>
 
 <!--
 **pde0111/pde0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
