@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=I'm%20Daeun&fontSize=90" />
 
-## ABOUT ME 😄
-
+## About Me 😄
 <a href="https://www.notion.so/16821e61a1b240769be159c0143f2869" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/blog-2DB400?style=for-the-badge&logo=blogger&logoColor=ffffff"/></a>
+
 ## Languages ✏️
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/java-E17102?style=for-the-badge&logo=openjdk&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/></a>
+<br>
 ## Tools ⌨️
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-0C79FC?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=ffffff"/></a>
@@ -32,13 +32,7 @@
 ### Framework
 <a href="" target="_blank"><img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=ffffff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mybatis-6DB33F?style=for-the-badge&logoColor=ffffff"/></a>
+<br/>
 
-## Contact Me 📫
-pde930111@gmail.com
-<!--
-**pde0111/pde0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
+![daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=pde0111&theme=gruvbox&show_icons=true)
 
