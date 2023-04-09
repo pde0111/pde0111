@@ -4,8 +4,9 @@
 
 <a href="https://www.notion.so/16821e61a1b240769be159c0143f2869" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/blog-2DB400?style=for-the-badge&logo=blogger&logoColor=ffffff"/></a>
+### LANGUAGES
 
-### Tools
+### TOOLS
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/MariaDB-354168?style=for-the-badge&logo=mariadbfoundation&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-0C79FC?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/></a>
