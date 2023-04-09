@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <a href="https://www.notion.so/16821e61a1b240769be159c0143f2869" target="_blank"><img src="https://img.shields.io/badge/notion-efefef?style=flat&logo=Notion&logoColor=000000"/></a>
+<a href="https://www.notion.so/16821e61a1b240769be159c0143f2869" target="_blank"><img src="https://img.shields.io/badge/notion-efefef?style=flat&logo=blogger&logoColor=000000"/></a>
+
 
 <!--
 **pde0111/pde0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
