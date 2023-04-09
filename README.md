@@ -13,13 +13,17 @@
 ## Tools ⌨️
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-0C79FC?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/></a>
-<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/></a>
+<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/></a>
+<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"/></a>
+<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=000000"/></a>
 ### DBMS
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/MariaDB-354168?style=for-the-badge&logo=mariadbfoundation&logoColor=ffffff"/></a>
 ### Framework
-<a href="" target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=ffffff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mybatis-6DB33F?style=for-the-badge&logoColor=ffffff"/></a>
+
 
 <!--
 **pde0111/pde0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
