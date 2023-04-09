@@ -15,7 +15,7 @@
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000000"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"/></a>
-<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=000000"/></a>
+<a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff"/></a>
 ### DBMS
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff"/></a>
 <a href="https://blog.naver.com/bakdan2" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
